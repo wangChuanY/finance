@@ -1,2 +1,5 @@
 # finance
-finance record
+## 个人记录使用
+
+## code : vue2 项目源码
+## 根目录为编译后的代码， 直接访问使用
